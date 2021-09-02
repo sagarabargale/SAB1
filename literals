@@ -1,9 +1,20 @@
 public class literals {
     public static void main(String[] args) {
-      byte age = 41;
+      //int age = 41;
+      //byte age =34;
+      //short age = 78;
+      //long age = 7987987908888888888L;
+      //short age = 12;
+      //char ch = 'A';
+      //float f1 =7.1F;
+      //double D1 = 9.88;
+      boolean B = true;
       
       
-            System.out.println(age);
+      
+            System.out.print("B");
           
+       String sab = "Sagar";
+       System.out.println(sab);
     }
 }
